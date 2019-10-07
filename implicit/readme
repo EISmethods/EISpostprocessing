@@ -1,0 +1,11 @@
+This folder contains the implicit EIS+ methods in the paper
+A-stable implicit method iEIS+(2,3) is in the file iEIS2s3p
+Parallel efficient A-stable implicit method iEIS+(2,3) is in the file iPEIS2s3p
+Parallel efficient A-stable implicit method iEIS+(3,4) is in the file iPEIS4s4p
+Parallel efficient A-stable implicit method iEIS+(4,5) is in the file iPEIS4s5p
+All these methods contain:
+the number of stages s
+the order p
+the abscissas c
+the coefficient matrices D, A, and R
+the truncation error vector tau
