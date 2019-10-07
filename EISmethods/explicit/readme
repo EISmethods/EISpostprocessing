@@ -1,0 +1,12 @@
+This folder contains the following explicit EIS methods:
+- the explicit methods eEIS+(2,4),eEIS+(4,4),eEIS+(3,6), and eEIS+(5,7) 
+named eEIS2s4p.mat, eEIS4s4p.mat, eEIS3s6p.mat, and eEIS5s7p.mat
+these files each contain the values:
+s=number of stages, 
+p=order, 
+the abscissas c, 
+the coefficient matrices D, A, R, 
+and the truncation error vector tau
+
+- the explicit SSP methods eSSP-EIS(3,4) and eSSP-EIS(4,5) named eSSPEIS3s4p.mat and eSSPEIS4s5p.mat
+these files each contain the values above as well as the SSP coefficient Cssp.
