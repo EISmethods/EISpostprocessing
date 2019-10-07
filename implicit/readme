@@ -8,4 +8,5 @@ the number of stages s
 the order p
 the abscissas c
 the coefficient matrices D, A, and R
-the truncation error vector tau
+the truncation error matrix tau which contains the truncation error vectors tau(1),...tau(p) 
+(note that we use tau(p-1) as the vector for post-processing)
