@@ -8,5 +8,5 @@ the abscissas c,
 the coefficient matrices D, A, R, 
 and the truncation error vector tau
 
-- the explicit SSP methods eSSP-EIS(3,4) and eSSP-EIS(4,5) named eSSPEIS3s4p.mat and eSSPEIS4s5p.mat
+- the explicit SSP methods eSSP-EIS+(3,4) and eSSP-EIS+(4,5) named eSSPEIS3s4p.mat and eSSPEIS4s5p.mat
 these files each contain the values above as well as the SSP coefficient Cssp.
